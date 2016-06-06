@@ -1,0 +1,2 @@
+# slate
+Bangla Typing Tool
